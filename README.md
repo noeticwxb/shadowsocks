@@ -1,6 +1,10 @@
 shadowsocks
 ===========
 
+back up from release 2.9.1 
+https://github.com/shadowsocks/shadowsocks
+
+
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
 [![Coverage Status]][Coverage]
